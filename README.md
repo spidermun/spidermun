@@ -15,7 +15,7 @@
 
 ### 💬 Zapraszam do kontaktu:
 - 📫 E-mail: **
-- 💬 Discord: **[Spidermun.](https://discord.com/users/TwojeID)**
+- 💬 Discord: **[Spidermun.](https://discord.com/users/spidermun.)**
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spidermun&show_icons=true&theme=tokyonight)
