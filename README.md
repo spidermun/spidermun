@@ -1,5 +1,5 @@
 ## 👋 Cześć, jestem Michał!
-<h1>## 📬 Contact me!
+<h1> 📬 Contact me!
 
 <p align="center">
   <a href="mailto:twojemail@gmail.com">
