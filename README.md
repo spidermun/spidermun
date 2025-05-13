@@ -19,11 +19,6 @@
   <a href="https://www.linkedin.com/in/micha%C5%82-trela-702687321/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michał%20Trela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/spidermun" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-spidermun-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
