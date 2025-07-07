@@ -1,6 +1,5 @@
 ## 👋 Cześć, jestem Michał!
 
----
 
 ## 📬 Skontaktuj się ze mną
 
